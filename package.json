@@ -1,7 +1,7 @@
 {
-  "name": "zpush-backend-analyzer",
+  "name": "start-project",
   "version": "1.0.0",
-  "description": "For backend data debugging",
+  "description": "Get started here",
   "main": "server/entry.js",
   "scripts": {
     "start": "nodemon --ignore server/test/ ./server/entry.js",
